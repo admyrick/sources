@@ -1,6 +1,9 @@
 # Games
 
+## Ports
 - [PortMaster](https://portmaster.games/)
+- [Ship of Harkinian (Android)](https://github.com/Waterdish/Shipwright-Android)
+- [2Ship2Harkinan Android](https://github.com/Waterdish/2ship2harkinian-Android)
 
 ## Storefronts
 
