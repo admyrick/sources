@@ -1,0 +1,77 @@
+# Companies
+
+- Anbernic
+	- [Blog](https://anbernic.com/blogs/news)
+	- [YouTube](https://youtube.com/@anbernic)
+	- [Twitter (X)](https://x.com/anbernic_china)
+	- [Twitter (Anbernic_JP)](https://x.com/Anbernic_JP)
+- AYN
+	- [YouTube](https://youtube.com/@ayn6704)
+	- [Discord](https://discord.com/channels/1014777854384414762/1141677523168677888)
+	- [IGG Campaigns](https://www.indiegogo.com/individuals/26364276/campaigns)
+- AYANEO
+	- ["News Center"](https://www.ayaneo.com/community/brand)
+	- [Discord](https://discord.com/invite/rAWGxjTtV5)
+	- [Twitter](https://twitter.com/AYANEO__)
+	- [YouTube](https://www.youtube.com/c/AYANEO)
+	- [IGG Campaigns](https://www.indiegogo.com/individuals/25072953/campaigns)
+- MSI
+	- [Press Room](https://us.msi.com/press-room)
+	- [MSI Claw Drivers & Downloads](https://www.msi.com/Handheld/Claw-A1MX/support?sub_product=Claw-A1M)
+- Valve
+	- [Steam News Hub](https://store.steampowered.com/news/)
+	- [Steam News Hub - Official](https://store.steampowered.com/news/collection/steam/)
+	- [Proton GitHub](https://github.com/ValveSoftware/Proton)
+	- [Steam Deck News Hub](https://store.steampowered.com/news/app/1675200)
+- Analogue
+	- [Announcements](https://www.analogue.co/announcements)
+	- [RSS (Announcements & Firmware)](https://www.analogue.co/feed)
+- Retroid
+	- [Discord](https://discord.gg/6HdBbH88Tj)
+	- [Twitter](https://x.com/retroid0fficial)
+	- [GitHub](https://github.com/RetroidPocket)
+- ASUS
+	- [Pressroom](https://press.asus.com/news/)
+	- [ROG Ally Driver & Tools](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/helpdesk_download/)
+	- [ROG Ally X Support](https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/helpdesk/)
+	- [Handheld Release Notes](https://rog-forum.asus.com/t5/changelogs/bg-p/Handheld_Release_Notes)
+- Lenovo
+	- [StoryHub/Press Releases](https://news.lenovo.com/pressroom/press-releases/?)
+	- [Legion Gaming Community](https://gaming.lenovo.com/news)
+	- [Legion Go Drivers & Software](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-go-8apu1/downloads)
+- Miyoo
+	- [Firmware Download Center](https://www.lomiyoo.com/en/gujianxiazai.html)
+- OneXPlayer
+	- [Twitter](https://x.com/OnexPlayer_)
+	- [Discord](https://discord.com/invite/pddzj3JUmr)
+	- [Blog](https://onexplayerstore.com/blogs/weekly-blog)
+	- [YouTube](https://www.youtube.com/@onexplayerofficial)
+	- [Reddit](https://www.reddit.com/r/OneXPlayer/)
+- 8BitDo
+	- [Twitter](https://x.com/8BitDo)
+	- [Website](https://www.8bitdo.com/)
+- Powkiddy
+	- [News](https://powkiddy.com/blogs/news)
+	- [YouTube](https://youtube.com/@powkiddy3810)
+- GPD
+	- [Twitter](https://x.com/softwincn)
+	- [News Blog](https://www.gpd.hk/revice)
+	- [IGG Campaigns](https://www.indiegogo.com/individuals/13166053/campaigns)
+	- [Discord](https://discord.com/invite/gpd-devices-243411108940087297)
+- GKD
+	- [Website](https://game-kiddy.com/)
+- Abxylute
+	- [Website](https://abxylute.com/)
+	- [Discord](https://discord.com/invite/45C8FBe2pd)
+	- [Twitter](https://x.com/abxylute)
+- ZPG
+    - [Website](https://zpocket-game.com/)
+    - [Twitter](https://x.com/Z_Pocket_Game)
+    - [Discord](https://discord.com/invite/APzpSw6zW7)
+    - [YouTube](https://www.youtube.com/@Z-PocketGame)
+- Intel
+    - [Newsroom](https://www.intel.com/content/www/us/en/newsroom/home.html#gs.j6lyup)
+- AMD
+    - [Newsroom](https://www.amd.com/en/newsroom.html)
+- Raspberry Pi
+    - [News](https://www.raspberrypi.com/news/)
