@@ -14,3 +14,6 @@
 - [Daijisho](https://github.com/TapiocaFox/Daijishou)
 - [Plain Launcher](https://bokonon-yossarian.itch.io/plain-launcher)
 - [Console Launcher](https://github.com/likeich/console-launcher/releases/latest)
+
+## Others
+- [ES-DE Android Custom Systems XML](https://github.com/GlazedBelmont/es-de-android-custom-systems)
