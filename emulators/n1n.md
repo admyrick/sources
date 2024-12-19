@@ -118,6 +118,8 @@
         - [uzuy-emul-axterv2](https://github.com/uzuy-emul/uzuy)
 - Sudachi
 - Ryujinx
+    - [Custom Build with 8GB Memory Layout Enabled](https://github.com/HDPacks/Ryujinx-8GB)  
+	- [Ryujinx Backup](https://rentry.co/ryujinx)
     - Forks
         - [GreemDev](https://github.com/GreemDev/Ryujinx)
         - [Ryujinx Mirror](https://github.com/ryujinx-mirror/ryujinx)
