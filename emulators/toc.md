@@ -5,6 +5,6 @@
 - Microsoft
 - Mobile
 - Multi-System
-- Nintendo
+- [Nintendo](https://github.com/admyrick/sources/blob/main/emulators/n1n.md)
 - Sony
 - x86
