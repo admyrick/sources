@@ -1,14 +1,16 @@
 # Nintendo
 
 ## NES
-- NES.emu
-    - [GitHub](https://github.com/Rakashazi/emu-ex-plus-alpha)
-    - [Play Store](https://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&hl=en_US)
-- [FCEUX](https://github.com/TASEmulators/fceux)
-- [nestopia](https://github.com/0ldsk00l/nestopia)
-- [eNES](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166)
-- [Retroman](https://apps.apple.com/us/app/retroman-gameboy-nes-emulator/id6502994389)
-- [SimpleNES](https://github.com/amhndu/SimpleNES)
+
+| Name  | Active? | Platform | Link 1 | Link 2 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| NES.emu  | Content Cell  | tktk | [GitHub](https://github.com/Rakashazi/emu-ex-plus-alpha) | [Play Store](https://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&hl=en_US) |
+| FCEUX  | Content Cell  | tktk | [Github](https://github.com/TASEmulators/fceux) | -- |
+| nestopia  | Content Cell  | tktk | [Github](https://github.com/0ldsk00l/nestopia) | -- |
+| eNES  | Content Cell  | tktk | [Apple App Store](https://apps.apple.com/us/app/enes-nes-emulator-retro-emu/id6499447166) | -- |
+| Retroman  | Content Cell  | tktk | [Apple App Store](https://apps.apple.com/us/app/retroman-gameboy-nes-emulator/id6502994389) | -- |
+| SimpleNES  | Content Cell  | tktk | [GitHub](https://github.com/amhndu/SimpleNES) | tktk |
+
 
 ## SNES
 - SNES9x
