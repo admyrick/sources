@@ -1,0 +1,39 @@
+# Multi-System
+
+- [RetroArch](https://retroarch.com/)
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid)
+- [mGBA](https://github.com/mgba-emu/mgba)
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu)
+- Provenance
+    - [GitHub](https://github.com/Provenance-Emu/Provenance)
+- Delta
+    - [GitHub](https://github.com/rileytestut/Delta)
+- [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
+    - [Helper](https://github.com/linuxserver/emulatorjs)
+- [Docker EmulatorJS](https://github.com/linuxserver/docker-emulatorjs)
+- [Mesen2](https://github.com/SourMesen/Mesen2)
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu)
+- ClassicBoy
+    - [Lite](https://play.google.com/store/apps/details?id=com.portableandroid.classicboyLite&hl=en_US)
+    - [Pro](https://play.google.com/store/apps/details?id=com.portableandroid.classicboy&hl=en_US)
+- [John GBAC](https://play.google.com/store/apps/details?id=com.johnemulators.johngbac)
+- [John NESS](https://play.google.com/store/apps/details?id=com.johnemulators.johnness&hl=en_US)
+- [ares](https://github.com/ares-emulator/ares)
+- [higan](https://github.com/higan-emu/higan)
+- [Bizhawk](https://github.com/TASEmulators/BizHawk)
+- [Mednafen](https://mednafen.github.io/)
+- [GB Enhanced+](https://github.com/shonumi/gbe-plus)
+- [Altea](https://apps.apple.com/us/app/altea-emulator/id6504998883)
+- [ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)
+- Folium
+    - [Website](https://folium.emuplace.app/)
+    - [GitHub](https://github.com/folium-app/Folium)
+    - [App Store](https://apps.apple.com/au/app/folium/id6498623389)
+- Ignited
+    - [Website](https://www.litritt.com/ignited)
+    - [GitHub](https://github.com/LitRitt/Ignited)
+    - [TestFlight](https://testflight.apple.com/join/ExWvtjcq)
+    - [Patreon](https://www.patreon.com/litritt/about?)
+- [NiN10](https://apps.apple.com/us/app/nin10-snes-nes-gb-emulator/id6503959130)
+- [higan](https://github.com/higan-emu/higan)
+- [Pizza Boy SC Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboyscpro&hl=en-US&ah=3wYXQ0V9nHwvtDa9vzBvikz_jjE)
