@@ -9,4 +9,8 @@
 	- [Patreon](https://www.patreon.com/c/es_de/posts)
 	- [Discord](https://discord.gg/42jqqNcHf9)
 - [CHDMAN](https://wiki.recalbox.com/en/tutorials/utilities/rom-conversion/chdman)
-- 
+
+## Apps and Launchers
+- [Daijisho](https://github.com/TapiocaFox/Daijishou)
+- [Plain Launcher](https://bokonon-yossarian.itch.io/plain-launcher)
+- [Console Launcher](https://github.com/likeich/console-launcher/releases/latest)
