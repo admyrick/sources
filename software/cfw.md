@@ -30,3 +30,4 @@
 - [ArkOS](https://github.com/christianhaitian/arkos)
 - [AmberElec](https://github.com/AmberELEC/AmberELEC)
     - [Twitter](https://x.com/Amber_ELEC)
+- [StockMix](https://github.com/costlyclick/stockmix)
