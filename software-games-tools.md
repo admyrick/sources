@@ -1,4 +1,4 @@
-# Software and Games
+# Software, Games, and Tools
 
 - [Junk Store](https://www.junkstore.xyz/)
 	- [GitHub](https://github.com/ebenbruyns/junkstore)
@@ -8,3 +8,5 @@
 	- [GitLab](https://gitlab.com/es-de/emulationstation-de)
 	- [Patreon](https://www.patreon.com/c/es_de/posts)
 	- [Discord](https://discord.gg/42jqqNcHf9)
+- [CHDMAN](https://wiki.recalbox.com/en/tutorials/utilities/rom-conversion/chdman)
+- 
