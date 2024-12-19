@@ -6,3 +6,6 @@
 	- [Discord](https://discord.gg/42jqqNcHf9)
 - [ES AppLauncher](https://github.com/schattenphoenix/es_applauncher)
 - [ES-DE Android Custom Systems XML](https://github.com/GlazedBelmont/es-de-android-custom-systems)
+- [Console Launcher](https://github.com/likeich/console-launcher)
+- [SimpleLauncher](https://github.com/drpetersonfernandes/SimpleLauncher)
+- [Pegasus](https://github.com/mmatyas/pegasus-frontend)
