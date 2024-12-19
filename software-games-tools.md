@@ -17,3 +17,7 @@
 
 ## Others
 - [ES-DE Android Custom Systems XML](https://github.com/GlazedBelmont/es-de-android-custom-systems)
+
+## Games and Ports
+- [Ship of Harkinian (Android)](https://github.com/Waterdish/Shipwright-Android)
+- [2Ship2Harkinan Android](https://github.com/Waterdish/2ship2harkinian-Android)
