@@ -10,3 +10,4 @@
 - [Brad Lynch (@SadlyItsBradley)](https://x.com/SadlyItsBradley)
 - [Tyler McVicker](https://www.youtube.com/watch?v=yQSdohLVa20)
 - [AeolusUX](https://www.youtube.com/@AeolusUX/community)
+- [MiniXPC](https://minixpc.com/blogs/news)
