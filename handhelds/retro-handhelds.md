@@ -6,9 +6,21 @@ tktk
 tktk
 ## BOYHOM
 tktk
+## CHI
+tktk
+## Data Frog
+tktk
+## Funny Playing
+tktk
 ## Game Console
 tktk
+## GAMEMT
+tktk
 ## GKD
+tktk
+## KinHank
+tktk
+## KT
 tktk
 ## MagicX
 tktk
@@ -17,6 +29,10 @@ tktk
 ## Miyoo
 tktk
 ## Powkiddy
+tktk
+## SJGAM
+tktk
+## SZDIIER
 tktk
 ## TrimUI
 tktk
