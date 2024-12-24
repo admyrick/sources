@@ -26,3 +26,6 @@
 - [Rayman3Readvanced](https://github.com/RayCarrot/Rayman3Readvanced)
 - [KH-ReFined](https://github.com/KH-ReFined/KH-ReFined)
 
+## Mods
+- [SM64 Path Tracing](https://github.com/DarioSamo/sm64rt)
+- 
