@@ -27,5 +27,8 @@
 - [KH-ReFined](https://github.com/KH-ReFined/KH-ReFined)
 
 ## Mods
-- [SM64 Path Tracing](https://github.com/DarioSamo/sm64rt)
-- 
+### SM64
+- [Path Tracing](https://github.com/DarioSamo/sm64rt)
+- [Luigi](http://sm64pc.info/forum/viewtopic.php?f=2&t=69)
+- [Wario](https://sm64pc.info/forum/viewtopic.php?p=437&i=1)
+- [Render96/ModelPack](https://github.com/Render96/ModelPack)
