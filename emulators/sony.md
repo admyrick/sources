@@ -9,6 +9,7 @@
 - DuckStation
     - [Website](https://www.duckstation.org/)
     - [Play Store](https://play.google.com/store/apps/details?id=com.github.stenzek.duckstation&hl=en_AU&gl=US)
+        - [Latest Update](https://downloads.duckstation.org/android/)
     - [GitHub](https://github.com/stenzek/duckstation/releases)
 - PCSX-Redux
     - [GitHub](https://github.com/grumpycoders/pcsx-redux)
