@@ -16,3 +16,4 @@
         - [GitHub](https://github.com/xenia-canary/xenia-canary)
         - [Optimized Settings](https://github.com/xenia-manager/Optimized-Settings)
         - [Xenia Game Patches](https://github.com/xenia-canary/game-patches)
+        - [Xenia Game Settings](https://github.com/A1eNaz/Xenia-Game-Settings)
