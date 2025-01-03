@@ -19,6 +19,7 @@
  
 ## Dreamcast
 - [Flycast](https://github.com/flyinghead/flycast)
+  - [CI Builds](https://flyinghead.github.io/flycast-builds/)
   - Flycast Dojo
 - [Redream](https://redream.io/download)
 - [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher)
