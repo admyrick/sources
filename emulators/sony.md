@@ -43,6 +43,8 @@
 - [orbital](https://github.com/AlexAltea/orbital)
 - [Kyty](https://github.com/InoriRus/Kyty)
 - [fpPS4](https://github.com/red-prig/fpPS4)
+- [psOff](https://github.com/SysRay/psOff_compatibility)
+- 
 
 ## PSP
 
