@@ -98,6 +98,8 @@
 - Folium
     - [App Store](https://apps.apple.com/ca/app/folium/id6498623389)
     - [Website](https://folium.emuplace.app/)
+- [Mikage](https://mikage.app/)
+	- [Mikage Dev GitHub](https://github.com/mikage-emu/mikage-dev)
 
 ## Wii U
 - Cemu
