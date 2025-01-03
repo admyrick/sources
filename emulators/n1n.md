@@ -37,6 +37,7 @@
 - MyOldBoy!
     - [Lite](https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree)
     - [Full](https://play.google.com/store/apps/details?id=com.fastemulator.gbc)
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy)
 
 ## GBA
 - Pizza Boy A
