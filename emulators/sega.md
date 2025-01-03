@@ -21,5 +21,6 @@
 - [Flycast](https://github.com/flyinghead/flycast)
   - [CI Builds](https://flyinghead.github.io/flycast-builds/)
   - Flycast Dojo
+  - [Flycast Texture Pack List](https://www.reddit.com/r/Flycast_texture_packs/comments/1hibzel/master_texture_pack_list_read_me_first/)
 - [Redream](https://redream.io/download)
 - [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher)
